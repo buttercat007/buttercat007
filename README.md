@@ -1,7 +1,7 @@
 [![ChokunPlayZ](https://github.com/ChokunPlayZ/ChokunPlayZ/raw/main/pictures/profile-readme/banner-1500x500.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151)][1]
-[![youtuber](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][11]
+[![GitHub Views](https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151)][5]
+[![youtube](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][4]
 
 Hey 👋🏻,
 
@@ -29,4 +29,5 @@ PHP, HTML, CSS, JavaScript and NodeJS.
 [1]: https://www.chokunplayz.com
 [2]: https://twitter.com/intent/follow?screen_name=chokunplayztweets
 [3]: https://www.youtube.com/chokunplayz?sub_confirmation=1
-[4]: 
+[4]: https://www.youtube.com/chokunplayz
+[5]: https://github.com/ChokunPlayZ/
