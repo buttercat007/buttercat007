@@ -10,7 +10,7 @@ I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do c
 Languages
 PHP, HTML, CSS, JavaScript and NodeJS.
 
-## 📬 Get in touch
+## 📬 Socials
 
 - Web: [chokunplayz.com][1]
 - Twitter: [twitter.com/chokuntweets][2]
