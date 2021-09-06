@@ -19,11 +19,11 @@ PHP, HTML, CSS, JavaScript and NodeJS.
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/ChokunPlayZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&theme=github_dark" />
 </a>
 
 <a href="https://github.com/ChokunPlayZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="ChokunPlayZ's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" />
 </a>
 
 [1]: https://www.chokunplayz.com
