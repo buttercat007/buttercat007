@@ -5,7 +5,7 @@
 
 Hey 👋🏻,
 
-I am a CS Student and a Conent Creator
+I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code.
 
 Languages
 PHP, HTML, CSS, JavaScript and NodeJS.
@@ -23,7 +23,7 @@ PHP, HTML, CSS, JavaScript and NodeJS.
 </a>
 
 <a href="https://github.com/ChokunPlayZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="ChokunPlayZ's GitHub Stats" />
 </a>
 
 [1]: https://www.chokunplayz.com
