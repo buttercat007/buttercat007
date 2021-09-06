@@ -5,7 +5,7 @@
 
 Hey 👋🏻,
 
-I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code.
+I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
 Languages
 PHP, HTML, CSS, JavaScript and NodeJS.
