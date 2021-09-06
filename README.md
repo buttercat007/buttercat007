@@ -13,7 +13,7 @@ PHP, HTML, CSS, JavaScript and NodeJS.
 ## 📬 Get in touch
 
 - Web: [chokunplayz.com][1]
-- Twitter: [twitter.com/chokunplayztweets][2]
+- Twitter: [twitter.com/chokuntweets][2]
 - YouTube: [youtube.com/chokunplayz][3]
 
 ## &#x1f4c8; My GitHub Stats
@@ -27,7 +27,7 @@ PHP, HTML, CSS, JavaScript and NodeJS.
 </a>
 
 [1]: https://www.chokunplayz.com
-[2]: https://twitter.com/intent/follow?screen_name=chokunplayztweets
+[2]: https://twitter.com/intent/follow?screen_name=chokuntweets
 [3]: https://www.youtube.com/chokunplayz?sub_confirmation=1
 [4]: https://www.youtube.com/chokunplayz
 [5]: https://github.com/ChokunPlayZ/
