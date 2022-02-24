@@ -8,7 +8,9 @@ Hey 👋🏻,
 I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
 Languages
-PHP, HTML, CSS, JavaScript and NodeJS.
+PHP, HTML, CSS, JavaScript and JS.
+
+mostly 3D printing
 
 ## 📬 Socials
 
