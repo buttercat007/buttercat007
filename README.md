@@ -12,18 +12,18 @@ PHP, HTML, CSS, JavaScript and JS.
 
 ## 🛠 Tools I've used
 #### 📃 Javascipt Libaries
-Fingerprint.js, Discord.js, Adonis.js, Express.js, Axios.js, Quill.js, Sweetalert, jQuery
+- Fingerprint.js, Discord.js, Adonis.js, Express.js, Axios.js, Quill.js, Sweetalert, jQuery
 #### 👨‍💻 DevOps Platform
-GitHub, GitLab, BitBucket
+- GitHub, GitLab, BitBucket
 #### 💼Management Softwares
-##### 📦DirectAdmin, Plesk, Netdata, Portainer (CE/BE)
-##### 🖥QEMU/KVM Virt-Manager, VMware vSphere
-##### 👨‍💻HeidiSQL, Tabby, WinSCP, FileZilla, MobaXterm
-##### 🌥 Cloudflare (DNS, Access, Tunnel)
+- 📦DirectAdmin, Plesk, Netdata, Portainer (CE/BE)
+- 🖥QEMU/KVM Virt-Manager, VMware vSphere
+- 👨‍💻HeidiSQL, Tabby, WinSCP, FileZilla, MobaXterm
+- 🌥 Cloudflare (DNS, Access, Tunnel)
 #### 💳 Payment Gateway
-Stripe, Truemoney Gift
+- Stripe, Truemoney Gift
 #### 📑 Text Editors/IDEs
-Elicipse, Visual Studio, VS Code, ArduinoIDE
+- Elicipse, Visual Studio, VS Code, ArduinoIDE
 
 ## ⚒ Hobbies
 - 3D Printing
