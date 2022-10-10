@@ -23,7 +23,7 @@ PHP, HTML, CSS, JavaScript and JS.
 #### 💳 Payment Gateway
 - Stripe, Truemoney Gift
 #### 📑 Text Editors/IDEs
-- Elicipse, Visual Studio, VS Code, ArduinoIDE
+- Elicipse, Visual Studio, VS Code, Atom (RIP), Sublime Text, Notepad++, ArduinoIDE
 #### 📚 Databases
 - MySQL, MongoDB, SQLite, PouchDB
 #### 💻 OS
