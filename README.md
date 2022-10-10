@@ -17,7 +17,7 @@ PHP, HTML, CSS, JavaScript and JS.
 - GitHub, GitLab, BitBucket
 #### 💼Management Softwares
 - 📦DirectAdmin, Plesk, Netdata, Portainer (CE/BE)
-- 🖥QEMU/KVM Virt-Manager, VMware vSphere
+- 🖥Docker, QEMU/KVM Virt-Manager, VMware vSphere
 - 👨‍💻HeidiSQL, Tabby, WinSCP, FileZilla, MobaXterm
 - 🌥 Cloudflare (DNS, Access, Tunnel)
 #### 💳 Payment Gateway
