@@ -34,6 +34,7 @@ PHP, HTML, CSS, JavaScript and JS.
 - Truemonet Wallet: [tip.chokunplayz.com][4]
 - Stripe : [stripe/chokunplayzsupport][5]
 - Buy me a coffee: [buymeacoffee/chokunplayz][6]
+- (I dont drink coffee but this goes to my morning chocolate!)
 
 ## 📬 Socials
 
