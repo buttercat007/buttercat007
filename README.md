@@ -7,10 +7,10 @@ Hey 👋🏻,
 
 I am a CS Student and a Content Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
-### 📜 Mainly used Languages
+## 📜 Mainly used Languages
 PHP, HTML, CSS, JavaScript and JS.
 
-### 🛠 Tools I've used
+## 🛠 Tools I've used
 #### 📃 Javascipt Libaries
 Fingerprint.js, Discord.js, Adonis.js, Express.js, Axios.js, Quill.js, Sweetalert, jQuery
 #### 👨‍💻 DevOps Platform
