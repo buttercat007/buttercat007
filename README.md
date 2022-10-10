@@ -5,20 +5,43 @@
 
 Hey 👋🏻,
 
-I am a CS Student and a Conent Creator, I'm mostly doing DevOps stuff but I do code sometimes.
+I am a CS Student and a Content Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
-Languages
+### 📜 Mainly used Languages
 PHP, HTML, CSS, JavaScript and JS.
 
-mostly 3D printing
+### 🛠 Tools I've used
+#### 📃 Javascipt Libaries
+Fingerprint.js, Discord.js, Adonis.js, Express.js, Axios.js, Quill.js, Sweetalert, jQuery
+#### 👨‍💻 DevOps Platform
+GitHub, GitLab, BitBucket
+#### 💼Management Softwares
+##### 📦DirectAdmin, Plesk, Netdata, Portainer (CE/BE)
+##### 🖥QEMU/KVM Virt-Manager, VMware vSphere
+##### 👨‍💻HeidiSQL, Tabby, WinSCP, FileZilla, MobaXterm
+##### 🌥 Cloudflare (DNS, Access, Tunnel)
+#### 💳 Payment Gateway
+Stripe, Truemoney Gift
+#### 📑 Text Editors/IDEs
+Elicipse, Visual Studio, VS Code, ArduinoIDE
+
+## ⚒ Hobbies
+- 3D Printing
+- Coding
+- Managing Systems
+
+## 💖 Support My Work!
+- Truemonet Wallet: [tip.chokunplayz.com][4]
+- Stripe : [stripe/chokunplayzsupport][5]
+- Buy me a coffee: [buymeacoffee/chokunplayz][6]
 
 ## 📬 Socials
 
 - Web: [chokunplayz.com][1]
-- Twitter: [twitter.com/chokuntweets][2]
-- YouTube: [youtube.com/chokunplayz][3]
+- Twitter: [twitter/chokuntweets][2]
+- YouTube: [youtube/chokunplayz][3]
 
-## &#x1f4c8; My GitHub Stats
+## 📊 My GitHub Stats
 
 <a href="https://github.com/ChokunPlayZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
@@ -31,5 +54,6 @@ mostly 3D printing
 [1]: https://www.chokunplayz.com
 [2]: https://twitter.com/intent/follow?screen_name=chokuntweets
 [3]: https://www.youtube.com/chokunplayz?sub_confirmation=1
-[4]: https://www.youtube.com/chokunplayz
-[5]: https://github.com/ChokunPlayZ/
+[4]: https://tip.chokunplayz.com/
+[5]: https://buy.stripe.com/8wM9C7blfeGvfks7ss
+[6]: http://buymeacoffee.com/chokunplayz
