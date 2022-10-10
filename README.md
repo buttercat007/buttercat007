@@ -24,6 +24,14 @@ PHP, HTML, CSS, JavaScript and JS.
 - Stripe, Truemoney Gift
 #### 📑 Text Editors/IDEs
 - Elicipse, Visual Studio, VS Code, ArduinoIDE
+#### 📚 Databases
+- MySQL, MongoDB, SQLite, PouchDB
+#### 💻 OS
+- Ubuntu, CentOS, Debian
+- Windows Server
+#### 🛠 Other Tools
+- Ultimaker Cura, SuperSlicer, PrusaSlicer
+- Marlin, Klipper
 
 ## ⚒ Hobbies
 - 3D Printing
