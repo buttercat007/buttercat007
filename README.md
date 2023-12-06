@@ -8,33 +8,23 @@ Hey 👋🏻,
 I am a CS Student and a Content Creator, I'm mostly doing DevOps stuff but I do code sometimes.
 
 ## 📜 Mainly used Languages
-PHP, HTML, CSS, JavaScript and JS.
+PHP, HTML, CSS, JavaScript, and Python.
 
 ## 🧰 Tools I've used
-#### 📃 Javascipt Libaries
-- Fingerprint.js, Discord.js, Adonis.js, Express.js, Axios.js, Quill.js, Sweetalert, jQuery
 #### 👨‍💻 DevOps Platform
 - GitHub, GitLab, BitBucket
 #### 💼Management Softwares
 - 📦DirectAdmin, Plesk, Netdata, Portainer (CE/BE)
 - 🖥Docker, QEMU/KVM Virt-Manager, VMware vSphere
-- 👨‍💻HeidiSQL, Tabby, WinSCP, FileZilla, MobaXterm
-- 🌥 Cloudflare (DNS, Access, Tunnel)
-#### 💳 Payment Gateway
-- Stripe, Truemoney Gift
-#### 📑 Text Editors/IDEs
-- Elicipse, Visual Studio, VS Code, Atom (RIP), Sublime Text, Notepad++, ArduinoIDE
 #### 📚 Databases
 - MySQL, MongoDB, SQLite, PouchDB
-#### 💻 OS
-- Ubuntu, CentOS, Debian
-- Windows Server
 #### 🛠 Other Tools
 - Ultimaker Cura, SuperSlicer, PrusaSlicer
 - Marlin, Klipper
 
 ## ⚒ Hobbies
 - 3D Printing
+- Photogaphy 📷
 - Coding
 - Managing Systems
 
