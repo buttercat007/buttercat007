@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/433919983077294084)](https://discord.com/users/433919983077294084)
+[![Discord Presence](https://lanyard.cnrad.dev/api/433919983077294084?bg=f7c7d5)](https://discord.com/users/433919983077294084)
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151)][5]
 [![youtube](https://img.shields.io/badge/YouTuber-Follow%20Me-FAC151.svg?logo=youtube&logoWidth=20)][4]
