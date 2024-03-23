@@ -7,14 +7,12 @@ Hey 👋🏻,
 I'm a self-taught fullstack engineer from Thailand🇹🇭. I'm currently pursuing infrastructure planing and network engineering, to create powerful, secure, reliable infrastructure
 
 ## 📜 Mainly used Languages
-PHP, HTML, CSS, JavaScript, and Python.
+PHP, HTML, CSS, JavaScript, C, and Python.
 
 ## 🧰 Tools I've used
-#### 👨‍💻 DevOps Platform
-- GitHub, GitLab, BitBucket
 #### 💼Management Softwares
-- 📦DirectAdmin, Plesk, Netdata, Portainer (CE/BE)
-- 🖥Docker, QEMU/KVM Virt-Manager, VMware vSphere
+- 📦DirectAdmin, Plesk, Netdata, Portainer
+- 🖥Docker, QEMU/KVM, VMware vSphere (RIP), Proxmox 
 #### 📚 Databases
 - MySQL, MongoDB, SQLite, PouchDB
 #### 🛠 Other Tools
