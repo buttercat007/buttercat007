@@ -15,15 +15,12 @@ PHP, JavaScript, C, and Python.
 - 🖥Docker, QEMU/KVM, VMware vSphere (RIP), Proxmox 
 #### 📚 Databases
 - MySQL, MongoDB, SQLite, PouchDB
-#### 🛠 Other Tools
-- Ultimaker Cura, SuperSlicer, PrusaSlicer
-- Marlin, Klipper
 
 ## ⚒ Hobbies
 - 3D Printing
 - Photogaphy 📷
 - Coding
-- Managing Systems
+- Homelabbing
 
 ## 📬 Socials
 
