@@ -25,12 +25,6 @@ PHP, HTML, CSS, JavaScript, C, and Python.
 - Coding
 - Managing Systems
 
-## 💖 Support My Work!
-- Truemonet Wallet: [tip.chokunplayz.com][4]
-- Stripe : [stripe/chokunplayzsupport][5]
-- Buy me a coffee: [buymeacoffee/chokunplayz][6]
-- (I dont drink coffee but this goes to my morning chocolate!)
-
 ## 📬 Socials
 
 - Web: [chokunplayz.com][1]
