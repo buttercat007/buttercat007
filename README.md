@@ -7,7 +7,7 @@ Hey 👋🏻,
 I'm a self-taught fullstack engineer from Thailand🇹🇭. I'm currently pursuing infrastructure planing and network engineering, to create powerful, secure, reliable infrastructure
 
 ## 📜 Mainly used Languages
-PHP, HTML, CSS, JavaScript, C, and Python.
+PHP, JavaScript, C, and Python.
 
 ## 🧰 Tools I've used
 #### 💼Management Softwares
