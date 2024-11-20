@@ -16,7 +16,7 @@ PHP, JavaScript, TypeScript, C, and Python.
 #### 📚 Databases
 - MySQL, MongoDB
 
-more at [ckl.moe](my website)
+more at (ckl.moe)[my website]
 
 ## ⚒ Hobbies
 - 3D Printing
