@@ -4,17 +4,19 @@
 
 Hey 👋🏻,
 
-I'm a self-taught fullstack engineer from Thailand🇹🇭. I'm currently pursuing infrastructure planing and network engineering, to create powerful, secure, reliable infrastructure
+I'm a self-taught fullstack engineer from Thailand🇹🇭. I'm currently pursuing infrastructure and network engineering, to create powerful, secure, reliable infrastructure
 
 ## 📜 Mainly used Languages
-PHP, JavaScript, C, and Python.
+PHP, JavaScript, TypeScript, C, and Python.
 
 ## 🧰 Tools I've used
 #### 💼Management Softwares
-- 📦DirectAdmin, Plesk, Netdata, Portainer
-- 🖥Docker, QEMU/KVM, VMware vSphere (RIP), Proxmox 
+- 📦DirectAdmin, Plesk
+- 🖥Docker, QEMU/KVM, VMware vSphere (RIP)
 #### 📚 Databases
-- MySQL, MongoDB, SQLite, PouchDB
+- MySQL, MongoDB
+
+more at [ckl.moe](my website)
 
 ## ⚒ Hobbies
 - 3D Printing
