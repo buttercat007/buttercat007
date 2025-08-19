@@ -1,44 +1,71 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/433919983077294084?bg=3e3b5f)](https://discord.com/users/433919983077294084)
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151)][5]
+<div align="center">
+  
+  <h1>Hi, I'm Chokun!</h1>
+  <p>
+    <b>Self-taught Fullstack Engineer</b> from <b>Thailand 🇹🇭</b><br/>
+    <i>Building secure, reliable infrastructure & loving all things tech!</i>
+  </p>
+  
+  <a href="https://discord.com/users/433919983077294084">
+    <img src="https://lanyard.cnrad.dev/api/433919983077294084?bg=3e3b5f" alt="Discord Presence"/>
+  </a>
+  <a href="https://buy.stripe.com/8wM9C7blfeGvfks7ss">
+    <img src="https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151" alt="GitHub Views"/>
+  </a>
+</div>
 
-Hey 👋🏻,
+---
 
-I'm a self-taught fullstack engineer from Thailand🇹🇭. I'm currently pursuing infrastructure and network engineering, to create powerful, secure, reliable infrastructure
+<h2>🛠️ Tech Stack</h2>
+<p>
+  <img src="pictures/icons/php.png" width="32" title="PHP"/>
+  <img src="pictures/icons/python.png" width="32" title="Python"/>
+  <img src="pictures/icons/nodejs.png" width="32" title="Node.js"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white"/>
+</p>
 
-## 📜 Mainly used Languages
-PHP, JavaScript, TypeScript, C, and Python.
+<details>
+<summary>🧰 <b>Tools & Platforms</b></summary>
 
-## 🧰 Tools I've used
-#### 💼Management Softwares
-- 📦DirectAdmin, Plesk
-- 🖥Docker, QEMU/KVM, VMware vSphere (RIP)
-#### 📚 Databases
-- MySQL, MongoDB
+**Management:** DirectAdmin, Plesk<br/>
+**Virtualization:** Docker, QEMU/KVM, VMware vSphere (RIP)<br/>
+**Databases:** MySQL, MongoDB<br/>
+<br/>
+More at <a href="https://ckl.moe">my website</a>.
+</details>
 
-more at [my website](https://ckl.moe).
+<h2>🎯 Hobbies</h2>
+<ul>
+  <li>3D Printing</li>
+  <li>Photography 📷</li>
+  <li>Coding</li>
+  <li>Homelabbing</li>
+</ul>
 
-## ⚒ Hobbies
-- 3D Printing
-- Photogaphy 📷
-- Coding
-- Homelabbing
+<h2>🌐 Connect with Me</h2>
+<p>
+  <a href="https://www.chokunplayz.com">🌍 Website</a> |
+  <a href="https://twitter.com/intent/follow?screen_name=chokuntweets">🐦 Twitter</a> |
+  <a href="https://www.youtube.com/chokunplayz?sub_confirmation=1">📺 YouTube</a>
+</p>
 
-## 📬 Socials
+---
 
-- Web: [chokunplayz.com][1]
-- Twitter: [twitter/chokuntweets][2]
-- YouTube: [youtube/chokunplayz][3]
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <a href="https://github.com/ChokunPlayZ">
+    <img src="https://github-readme-stats.vercel.app/api?username=chokunplayz&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="200"/>
+  </a>
+  <a href="https://github.com/ChokunPlayZ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&theme=github_dark" height="200"/>
+  </a>
+</p>
 
-## 📊 My GitHub Stats
+---
 
-<a href="https://github.com/ChokunPlayZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
-</a>
-
-<a href="https://github.com/ChokunPlayZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&theme=github_dark" height="230"/>
-</a>
 
 [1]: https://www.chokunplayz.com
 [2]: https://twitter.com/intent/follow?screen_name=chokuntweets
