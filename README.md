@@ -10,21 +10,18 @@
   <a href="https://discord.com/users/433919983077294084">
     <img src="https://lanyard.cnrad.dev/api/433919983077294084?bg=3e3b5f" alt="Discord Presence"/>
   </a>
-  <a href="https://buy.stripe.com/8wM9C7blfeGvfks7ss">
-    <img src="https://komarev.com/ghpvc/?username=chokunplayz&color=FAC151" alt="GitHub Views"/>
-  </a>
 </div>
 
 ---
 
 <h2>🛠️ Tech Stack</h2>
 <p>
-  <img src="pictures/icons/php.png" width="32" title="PHP"/>
-  <img src="pictures/icons/python.png" width="32" title="Python"/>
-  <img src="pictures/icons/nodejs.png" width="32" title="Node.js"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" title="C"/>
 </p>
 
 <details>
@@ -70,6 +67,3 @@ More at <a href="https://ckl.moe">my website</a>.
 [1]: https://www.chokunplayz.com
 [2]: https://twitter.com/intent/follow?screen_name=chokuntweets
 [3]: https://www.youtube.com/chokunplayz?sub_confirmation=1
-[4]: https://tip.chokunplayz.com/
-[5]: https://buy.stripe.com/8wM9C7blfeGvfks7ss
-[6]: http://buymeacoffee.com/chokunplayz
