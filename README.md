@@ -12,41 +12,52 @@
   </a>
 </div>
 
----
-
-<h2>🛠️ Tech Stack</h2>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/>
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <!-- Languages -->
+  <b>Languages</b><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" title="C"/>
-</p>
-
-<details>
-<summary>🧰 <b>Tools & Platforms</b></summary>
-
-**Management:** DirectAdmin, Plesk<br/>
-**Virtualization:** Docker, QEMU/KVM, VMware vSphere (RIP)<br/>
-**Databases:** MySQL, MongoDB<br/>
-<br/>
-More at <a href="https://ckl.moe">my website</a>.
-</details>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" title="C#"/>
+  <br/>
+  <!-- Databases -->
+  <b>Databases</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="32" title="MariaDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB"/>
+  <br/>
+  <!-- DevOps & Monitoring -->
+  <b>DevOps & Monitoring</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" title="Git"/>
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="32" title="Cloudflare"/>
+  <img src="https://cdn.simpleicons.org/grafana/F46800" width="32" title="Grafana"/>
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="32" title="Prometheus"/>
+  <br/>
+  <!-- Environments -->
+  <b>Environments</b><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="32" title="VMware vSphere"/>
+  <img src="https://cdn.simpleicons.org/proxmox/EE0000" width="32" title="Proxmox"/>
+  <img src="https://cdn.simpleicons.org/mikrotik/0055A4" width="32" title="Mikrotik"/>
+  <img src="https://cdn.simpleicons.org/opnsense/262626" width="32" title="OpnSense"/>
+  <br/>
+</div>
 
 <h2>🎯 Hobbies</h2>
 <ul>
   <li>3D Printing</li>
   <li>Photography 📷</li>
-  <li>Coding</li>
   <li>Homelabbing</li>
 </ul>
 
 <h2>🌐 Connect with Me</h2>
 <p>
   <a href="https://www.chokunplayz.com">🌍 Website</a> |
-  <a href="https://twitter.com/intent/follow?screen_name=chokuntweets">🐦 Twitter</a> |
-  <a href="https://www.youtube.com/chokunplayz?sub_confirmation=1">📺 YouTube</a>
+  <a href="https://x.com/intent/follow?screen_name=chokuntweets">🐦 Twitter/X</a> 
 </p>
 
 ---
@@ -62,8 +73,3 @@ More at <a href="https://ckl.moe">my website</a>.
 </p>
 
 ---
-
-
-[1]: https://www.chokunplayz.com
-[2]: https://twitter.com/intent/follow?screen_name=chokuntweets
-[3]: https://www.youtube.com/chokunplayz?sub_confirmation=1
