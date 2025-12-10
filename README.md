@@ -12,19 +12,7 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/buttercat007">
-    <img src="https://github-readme-stats-buttercat007.vercel.app/api?username=buttercat007&show_icons=true&theme=github_dark&hide_border=false&count_private=true" height="200"/>
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/buttercat007">
-    <img src="https://github-readme-stats-buttercat007.vercel.app/api/top-langs/?username=buttercat007&theme=dracula&layout=compact&hide_border=false" height="200"/>
-  </a>
-
-  <!-- Streak Stats -->
-  <a href="https://github.com/buttercat007">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=buttercat007&theme=tokyonight&hide_border=false" height="200"/>
-  </a>
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,react,nuxtjs,tailwind,nodejs,bun,elysia,mysql,linux,docker,cloudflare,git,github,bitbucket,npm,vscode,atom,discord)](https://skillicons.dev)
 </div>
+
 
