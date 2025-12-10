@@ -8,11 +8,13 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
-
+<a href="https://stats.hyo.dev/stats/buttercat007"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=buttercat007" width="600" /></a>
+</div>
+<div align="center">
   <!-- GitHub Stats -->
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,react,nuxtjs,tailwind,nodejs,bun,elysia,mysql,linux,docker,cloudflare,git,github,bitbucket,npm,vscode,atom,discord)](https://skillicons.dev)
 </div>
+
 
 
