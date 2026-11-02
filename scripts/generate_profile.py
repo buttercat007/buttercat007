@@ -33,19 +33,61 @@ text(65,655,'01 / THE ISLAND TOOLKIT',13,'#a3633d','font-weight="700" letter-spa
 text(62,708,'Good tools. Fresh ideas.',46,'#14575f','font-weight="700" letter-spacing="-1"')
 text(65,745,'The languages, frameworks & companions in my creative beach bag.',20,'#627972')
 rows=[('01','FRONTEND & INTERFACE',['HTML','CSS','JavaScript','TypeScript','React','Vue','Nuxt','Next.js','Tailwind','Bootstrap','Sass','Vite','Svelte','Astro']),('02','LANGUAGES',['JavaScript','TypeScript','Go','Python','PHP','C#','C','C++','Java','Rust','Dart','Bash','SQL']),('03','BACKEND & INFRASTRUCTURE',['Go','Node.js','Bun','Elysia','Express','NestJS','MySQL','PostgreSQL','Redis','MongoDB','Linux','Docker','Cloudflare']),('04','TOOLS & WORKFLOW',['Git','GitHub','Bitbucket','npm','pnpm','Yarn','VS Code','Atom','Postman','Figma','Vercel','Netlify','Discord'])]
+# Accent colors are paired with pale backgrounds and contrast-checked text.
+skill_colors = {
+ 'HTML':'#e66136', 'CSS':'#286cce', 'JavaScript':'#e6bc27',
+ 'TypeScript':'#3178c6', 'React':'#20a9cb', 'Vue':'#35a779',
+ 'Nuxt':'#00ad80', 'Next.js':'#334155', 'Tailwind':'#16a9bd',
+ 'Bootstrap':'#8852cf', 'Sass':'#c86292', 'Vite':'#9364e9',
+ 'Svelte':'#ef6133', 'Astro':'#bf4acb', 'Go':'#00a5be',
+ 'Python':'#397baa', 'PHP':'#7973b4', 'C#':'#8c49b2',
+ 'C':'#5879a7', 'C++':'#3874bd', 'Java':'#ce7535',
+ 'Rust':'#a66a4b', 'Dart':'#148cae', 'Bash':'#51934c',
+ 'SQL':'#318f9c', 'Node.js':'#629c48', 'Bun':'#b58150',
+ 'Elysia':'#b76d9a', 'Express':'#617381', 'NestJS':'#d34465',
+ 'MySQL':'#287c9d', 'PostgreSQL':'#416e9b', 'Redis':'#ce514b',
+ 'MongoDB':'#46994c', 'Linux':'#c99823', 'Docker':'#208ed2',
+ 'Cloudflare':'#ed892c', 'Git':'#e26445', 'GitHub':'#555d75',
+ 'Bitbucket':'#2b73cb', 'npm':'#c84949', 'pnpm':'#d59b24',
+ 'Yarn':'#388eae', 'VS Code':'#2389c0', 'Atom':'#609c78',
+ 'Postman':'#eb7844', 'Figma':'#be65b3', 'Vercel':'#475569',
+ 'Netlify':'#279e9b', 'Discord':'#6870d5',
+}
+def rgb(h):
+ return tuple(int(h[j:j+2],16) for j in (1,3,5))
+def hex_color(c):
+ return '#' + ''.join(f'{round(v):02x}' for v in c)
+def luminance(c):
+ values=[v/255 for v in c]
+ linear=[v/12.92 if v <= .04045 else ((v+.055)/1.055)**2.4 for v in values]
+ return sum(v*w for v,w in zip(linear,(.2126,.7152,.0722)))
+def chip_palette(accent):
+ base=rgb(accent)
+ bg=tuple(v*.15+255*.85 for v in base)
+ fg=tuple(v*.62 for v in base)
+ while (luminance(bg)+.05)/(luminance(fg)+.05) < 4.5:
+  fg=tuple(v*.9 for v in fg)
+ return hex_color(bg),hex_color(fg)
+category_colors=['#dc784f','#6a79be','#26978d','#b46c9b']
 for i,(n,title,items) in enumerate(rows):
  x=64+(i%2)*548;y=788+(i//2)*239
  add(f'<rect x="{x}" y="{y+5}" width="524" height="216" rx="20" fill="#d8bf96" opacity=".24"/><rect x="{x}" y="{y}" width="524" height="216" rx="20" fill="#fffdf3" stroke="#e4d8ba"/>')
- add(f'<circle cx="{x+34}" cy="{y+36}" r="16" fill="#e0f2e6"/>')
- text(x+34,y+40,n,11,'#2c7b6c','text-anchor="middle" font-weight="700"')
- text(x+62,y+41,title,13,'#276969','font-weight="700" letter-spacing="1"')
+ accent=category_colors[i]
+ category_bg,category_fg=chip_palette(accent)
+ add(f'<rect x="{x+22}" y="{y}" width="96" height="4" rx="2" fill="{accent}"/>')
+ add(f'<circle cx="{x+34}" cy="{y+36}" r="16" fill="{category_bg}"/>')
+ text(x+34,y+40,n,11,category_fg,'text-anchor="middle" font-weight="700"')
+ text(x+62,y+41,title,13,category_fg,'font-weight="700" letter-spacing="1"')
  xx=x+22;yy=y+68
  for item in items:
   w=max(77,len(item)*9+25)
   if xx+w>x+505:xx=x+22;yy+=47
   assert yy+35 <= y+207, f'Skills overflow: {title}'
-  add(f'<rect x="{xx}" y="{yy}" width="{w}" height="35" rx="9" fill="#edf6ef"/>')
-  text(xx+w/2,yy+23,item,15,'#306b66','text-anchor="middle"')
+  accent=skill_colors[item]
+  bg,fg=chip_palette(accent)
+  add(f'<rect x="{xx}" y="{yy}" width="{w}" height="35" rx="9" fill="{bg}"/>')
+  add(f'<rect x="{xx+6}" y="{yy+10}" width="3" height="15" rx="1.5" fill="{accent}"/>')
+  text(xx+w/2+3,yy+23,item,15,fg,'text-anchor="middle"')
   xx+=w+9
 text(65,1302,'02 / KEEP EXPLORING',13,'#a3633d','font-weight="700" letter-spacing="3"')
 text(62,1354,'Made of code & ocean air.',43,'#14575f','font-weight="700" letter-spacing="-1"')
