@@ -19,7 +19,7 @@ add('''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1740" viewBo
 <path d="M64 419q18-18 36 0m2 0q18-18 36 0M619 160q13-15 26 0m1 0q13-15 26 0" fill="none" stroke="#227987" stroke-width="3" stroke-linecap="round"/>
 <rect width="1200" height="1740" fill="url(#grain)"/>
 ''')
-palm(1120,291,.96,-1)
+palm(1100,465,.96,-1)
 text(64,61,'THE HAWAII EDITION',13,extra='letter-spacing="4" font-weight="700"')
 text(1136,61,'EST. / BUTTERCAT007',12,extra='text-anchor="end" letter-spacing="2"')
 text(62,157,"Aloha, I'm",37)
@@ -28,7 +28,7 @@ text(68,329,'A LITTLE SUNSHINE. A LOT OF CURIOSITY.',17,'#176772','letter-spacin
 add('<rect x="65" y="365" width="391" height="49" rx="24" fill="#fffaf0"/>')
 text(87,396,'CODE  /  CREATE  /  CATCH THE NEXT WAVE',13,'#1c7375','font-weight="700" letter-spacing="1"')
 # A small surfboard in the shallows.
-add('<g transform="translate(910 492) rotate(22)"><ellipse rx="29" ry="88" fill="#fff4d8" stroke="#e9c79c" stroke-width="2"/><path d="M-10-80V80H10V-80" fill="#ef977c"/><path d="M0-86V86" stroke="#fff7e9" stroke-width="3"/></g>')
+add('<g transform="translate(910 650) rotate(22)"><ellipse rx="29" ry="88" fill="#fff4d8" stroke="#e9c79c" stroke-width="2"/><path d="M-10-80V80H10V-80" fill="#ef977c"/><path d="M0-86V86" stroke="#fff7e9" stroke-width="3"/></g>')
 text(65,655,'01 / THE ISLAND TOOLKIT',13,'#a3633d','font-weight="700" letter-spacing="3"')
 text(62,708,'Good tools. Fresh ideas.',46,'#14575f','font-weight="700" letter-spacing="-1"')
 text(65,745,'The languages, frameworks & companions in my creative beach bag.',20,'#627972')
@@ -93,7 +93,7 @@ text(65,1302,'02 / KEEP EXPLORING',13,'#a3633d','font-weight="700" letter-spacin
 text(62,1354,'Made of code & ocean air.',43,'#14575f','font-weight="700" letter-spacing="-1"')
 text(65,1394,'Explore the repos. Share an idea. Say aloha.',22,'#627972')
 add('<path d="M0 1580Q200 1510 400 1580T800 1580T1200 1570V1740H0Z" fill="#b9e7d8"/><path d="M0 1610Q200 1540 400 1610T800 1610T1200 1600V1740H0Z" fill="#81ccc1"/>')
-palm(1020,1422,.88)
+palm(860,1470,.88)
 add('<rect x="65" y="1434" width="636" height="70" rx="13" fill="#fffaf0" stroke="#e0cba6"/>')
 text(88,1463,'FIND ME ON',11,'#a3633d','letter-spacing="2" font-weight="700"')
 text(88,1488,'GitHub / buttercat007     ·     Discord / say aloha',17,'#215f62')
